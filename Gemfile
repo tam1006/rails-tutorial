@@ -7,6 +7,7 @@ ruby '3.0.0'
 gem 'rails', '~> 6.1.4'
 
 gem 'bootstrap-sass'
+gem 'bcrypt'
 
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
