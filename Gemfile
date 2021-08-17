@@ -27,6 +27,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
+gem 'jquery-ui-rails'
 gem 'rexml'
 
 # Use Active Storage variant
